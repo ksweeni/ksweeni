@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=egg&height=200&color=E8F5FF&text=☁▫▫&fontAlign=70&stroke=FFFFFF&strokeWidth=3&&animation=scaleIn)
 ## I'm ☁
 - 📚 currently studying front-end, react, javascript.
 - 💘 I love Techs, Science, Computer, Designs.
