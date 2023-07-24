@@ -54,4 +54,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ksween&theme=icegray&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=egg&color=E8F5FF)
