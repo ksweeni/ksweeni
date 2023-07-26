@@ -50,6 +50,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFC5D5&title_bg=%23857F7F&icon=twitch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ksweeni)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksweeni&count_private=true&hide_border=true&bg_color=70,FFFFFF&title_color=787878&text_color=FFB0CF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ksween&theme=icegray&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksweeni&count_private=true&hide_border=true&bg_color=70,FFFFFF&title_color=787878&text_color=FFB0CF&show_icons=true)
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
