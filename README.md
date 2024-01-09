@@ -1,5 +1,5 @@
 ## I'm ☁
-- 📚 currently studying front-end, react, javascript.
+- 📚 currently studying front-end, react, javascript, Spring.
 - 💘 I love Techs, Science, Computer, Designs.
 - ⛄ I Love to Learn someting new everytime.
 - 🌞 Solving Every Morning !
